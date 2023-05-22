@@ -1,16 +1,15 @@
-### Hi there 👋
+### boas vindas ao meu perfil 🍑
 
-<!--
-**loirinha123/loirinha123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é mariane
 
-Here are some ideas to get you started:
+_estou estudando no [alura](https://www.alura.com.br)
+_estou me desenvolvendo na linguagem Davascript 
+_utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você entrar em contato comigo 📫
+
+marianepereirablanco@gmail.com
+
+@loirinha123
+ 
+ ![](https://media.tenor.com/c56mUPIqFyUAAAAj/hello-kitty.gif)
